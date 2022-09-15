@@ -9,3 +9,8 @@
 - session1 video link:https://transcripts.gotomeeting.com/#/s/fc9b881159a77bdb7996fa5199284463c65e0e0737cc5a5d138654412247854e
 - Discussed the loops in python with all possible examples and functions in python and types of functions
 - session2 video link:https://transcripts.gotomeeting.com/#/s/f151c38f318c2755af5cfcff00e876ffb88125353cab1352906584f5465a383f
+### Day3
+- Disuccssion continued on data structures in python and file handling
+- session1-1:video link:https://transcripts.gotomeeting.com/#/s/d550f1b27b89fcdab38b559c6262edea8a0959bad77d010794c22c78289983ad
+- session1-2-video link:https://transcripts.gotomeeting.com/#/s/11b661aa194f607e2b657160945244c28353d5aadbbe47595041efc11a37cac7
+- session2 video link:https://transcripts.gotomeeting.com/#/s/49c7a22e20bdcfa11068d96aea4d2071daabc0542a79293504a74d5581b9ec7d
