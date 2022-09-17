@@ -14,3 +14,10 @@
 - session1-1:video link:https://transcripts.gotomeeting.com/#/s/d550f1b27b89fcdab38b559c6262edea8a0959bad77d010794c22c78289983ad
 - session1-2-video link:https://transcripts.gotomeeting.com/#/s/11b661aa194f607e2b657160945244c28353d5aadbbe47595041efc11a37cac7
 - session2 video link:https://transcripts.gotomeeting.com/#/s/49c7a22e20bdcfa11068d96aea4d2071daabc0542a79293504a74d5581b9ec7d
+### Day4
+- Discussed the Numpy module 
+- session1 video link:https://transcripts.gotomeeting.com/#/s/8025cd2b5a7bcf21c267002802c014f2f874bffaa15a920834c5f31a162f1a1d
+- session2 video link:https://transcripts.gotomeeting.com/#/s/6adf94d8eb993dafc78377f23c243483162ae5afc9e0603d5b0a979cca509c24
+### Daay5 
+- Discussed the pandas module
+- session video link:https://transcripts.gotomeeting.com/#/s/bbb037cec87ebef47d1908ced8b0b41b0afe4f3930af9602daca1d4291db3727
