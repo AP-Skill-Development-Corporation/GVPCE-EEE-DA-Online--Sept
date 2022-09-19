@@ -18,6 +18,10 @@
 - Discussed the Numpy module 
 - session1 video link:https://transcripts.gotomeeting.com/#/s/8025cd2b5a7bcf21c267002802c014f2f874bffaa15a920834c5f31a162f1a1d
 - session2 video link:https://transcripts.gotomeeting.com/#/s/6adf94d8eb993dafc78377f23c243483162ae5afc9e0603d5b0a979cca509c24
-### Daay5 
+### Day5 
 - Discussed the pandas module
 - session video link:https://transcripts.gotomeeting.com/#/s/bbb037cec87ebef47d1908ced8b0b41b0afe4f3930af9602daca1d4291db3727
+### Day6
+- Discussed the data visualization modules matplotlib,seaborn and scikitlearn
+- session1 video link:https://transcripts.gotomeeting.com/#/s/fd90c3374bcd2cc40b3c79a39d6f4e2f2b61f7a7316d346a237691c55dfb7d74
+- session2 video link:https://transcripts.gotomeeting.com/#/s/8b0b3091f7cce9ebaa7297bf8cd99cbf98e23774790573968366c4f47c7ab6cd
